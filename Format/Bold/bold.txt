@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<head>
+<html>
+<title>Bold Text</title>
+</head>
+<body>
+<p><b>This is bold</b>This is not bold</p>
+</html>
