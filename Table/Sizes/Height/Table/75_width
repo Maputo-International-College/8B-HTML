@@ -3,17 +3,19 @@
   <head>
     <title></title>
   </head>
+  <head>
+    <title></title>
+  </head>
   <style>
     table, th, td {
       border: 1px solid black;
-      border-collapse: collapse;
     }
   </style>
 
   <body>
-    <h2>100% width HTML Table</h2>
+    <h2>75% width HTML Table</h2>
 
-    <table style="width: 100%">
+    <table style="width: 75%">
       <tr>
         <th>Firstname</th>
         <th>Lastname</th>
