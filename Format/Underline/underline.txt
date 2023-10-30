@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<head>
-<title>Underline Text</title>
-</head>
-<body>
-<p><u>This is underline</u>This is not underline</p>
+<html>
+  <head>
+    <title>Underline Text</title>
+  </head>
+  <body>
+    <p><u>This is underline</u>This is not underline</p>
+  </body>
+</html>
